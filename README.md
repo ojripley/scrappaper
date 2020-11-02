@@ -2,7 +2,7 @@
 
 ### I used up the last page of my notebook the other day.
 
-### Instead of buying a new one, this for writing down all the little things that pop into your brain.
+### Instead of buying a new one, this is for writing down all the little things that pop into your brain.
 
 ## General Concept
 
@@ -12,6 +12,7 @@ Make it easy to jot anything down. The fewer steps for the user, the better. Aut
 
 - React
 - NodeJS
+- Express
 - MongoDB
 
 ## Dev Goals
